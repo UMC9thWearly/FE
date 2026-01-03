@@ -16,12 +16,7 @@ Kotlin, Android Studio(ver. Narwhal 3 Feature Drop | 2025.1.3)
 
 #### Format
 `[type]: 요약 제목 (task 유형)`  
-&nbsp;&nbsp;&nbsp;&nbsp;`"본문: 필요한 경우에 선택적으로 작성"`
-
-#### Example
-`[feat]: 로그인 UI 구현 (로그인)`  
-&nbsp;&nbsp;&nbsp;&nbsp;`코드에 대하여 상세 기술`
-
+&nbsp;&nbsp;&nbsp;&nbsp;`"본문: 코드에 대한 상세 기술이 필요한 경우에 선택적으로 작성"`
     
 #### 💡 Type & Task 상세
 
