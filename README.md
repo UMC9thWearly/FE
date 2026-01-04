@@ -10,6 +10,8 @@ Kotlin, Android Studio(ver. Narwhal 3 Feature Drop | 2025.1.3)
 
 ---  
 
+## 📑 Convention
+
 [📝 Commit Convention](https://github.com/UMC9thWearly/FE/wiki/Commit-Convention)
 
 [💻 Code Convention](https://github.com/UMC9thWearly/FE/wiki/Code-Convention)
